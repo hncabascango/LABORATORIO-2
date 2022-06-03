@@ -58,11 +58,12 @@ Comprender  el método de análisis de mallas, y  lograr establecer una relació
 
 **Ecuaciones de malla 2**
 
-![image](https://user-images.githubusercontent.com/105606339/171789861-d07e8d02-d2f3-4733-bad0-ab4a9a73e9ad.png)
+![image](https://user-images.githubusercontent.com/105606339/171915502-e605434c-c009-4cb9-894c-1bed0d6a330b.png)
+
 
 **Ecuaciones de malla 3**
 
-![image](https://user-images.githubusercontent.com/105606339/171789881-c1957cae-9fe2-4044-b4fb-c29ce355374d.png)
+![image](https://user-images.githubusercontent.com/105606339/171915543-973e9ae7-2df9-4e7c-8be6-7f3f00cd5bf3.png)
 
 **Solución del sistema de ecuaciones**
 
